@@ -1,0 +1,15 @@
+name: haskellrdm
+version: 0.0.0
+synopsis: Haskell RDM
+description: Nathan Fargo Haskell test codes
+license: MIT
+license-file: LICENSE
+author: Nathan Fargo
+maintainer: linearfox@googlegroups.com
+category: HaskellCodes
+build-type: Simple
+cabal-version: >= 2.0
+
+source-repository head
+  type: git
+  location: *
