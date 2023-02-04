@@ -12,4 +12,4 @@ cabal-version: >= 2.0
 
 source-repository head
   type: git
-  location: *
+  location: ntfargo/HaskellRDM
